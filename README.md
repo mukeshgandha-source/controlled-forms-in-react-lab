@@ -1,5 +1,3 @@
-# controlled-forms-in-react-lab
-Unit3 Lab
 # 📚 Reactville Library - Controlled Forms Lab
 
 Welcome to the **Reactville Virtual Library**! This project is a single-page application (SPA) where users can add their favorite books to a virtual bookshelf.
